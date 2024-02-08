@@ -29,3 +29,9 @@ MongoDB
 Next.js
 Node.js
 React
+
+## 📫 Contact Me  
+
+Why did the web developer avoid the phone?
+
+Because he heard it had too many bugs! 🐛📱 
