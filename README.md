@@ -1,4 +1,4 @@
-
+![HackedComputerhackGIF](https://github.com/jvfd1983/jvfd1983/assets/152170826/d399d0a2-7e5e-481f-9a5c-d47944082445)
 # 👋 Hi there! I'm João Dias 
 
 class Developer:
@@ -19,7 +19,6 @@ me.say_hey()
 
 🛠️ Tech
 Languages/Tools I'm currently working on and learning:
-![HackedComputerhackGIF](https://github.com/jvfd1983/jvfd1983/assets/152170826/d399d0a2-7e5e-481f-9a5c-d47944082445)
 JavaScript
 Bootstrap
 Git
