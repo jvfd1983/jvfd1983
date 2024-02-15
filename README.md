@@ -1,8 +1,6 @@
-markdown
-Copy code
+
 # 👋 Hi there! I'm João Dias 
 
-```python
 class Developer:
 
     def __init__(self):
@@ -21,6 +19,7 @@ me.say_hey()
 
 🛠️ Tech
 Languages/Tools I'm currently working on and learning:
+![HackedComputerhackGIF](https://github.com/jvfd1983/jvfd1983/assets/152170826/d399d0a2-7e5e-481f-9a5c-d47944082445)
 JavaScript
 Bootstrap
 Git
@@ -30,7 +29,7 @@ Next.js
 Node.js
 React
 
-## 📫 Contact Me  
+## 📫 Contact Me ## 
 
 Why did the web developer avoid the phone?
 
