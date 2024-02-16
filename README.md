@@ -16,17 +16,18 @@ class Developer:
 
 me = Developer()
 me.say_hey()
-
 🛠️ Tech
 Languages/Tools I'm currently working on and learning:
-JavaScript
-Bootstrap
-Git
-HTML5
-MongoDB
-Next.js
-Node.js
-React
+
+
+![icons8-javascript](https://github.com/jvfd1983/jvfd1983/assets/152170826/e873437d-5306-4aa3-bde2-097ede47d2fe)
+![icons8-html](https://github.com/jvfd1983/jvfd1983/assets/152170826/316ca250-14ca-4819-8f7d-1b5d3adac6db)
+![icons8-mongo-db-64](https://github.com/jvfd1983/jvfd1983/assets/152170826/8ee8a847-57c7-4ae5-9203-8118ce5f2eb7)
+![icons8-reagir](https://github.com/jvfd1983/jvfd1983/assets/152170826/62efb75a-92ab-406b-8805-b050cbfdf846)
+![icons8-nó-js-64](https://github.com/jvfd1983/jvfd1983/assets/152170826/592d0cb3-7395-4017-8309-e68cff68a61c)
+
+
+      
 
 ## 📫 Contact Me ## 
 
