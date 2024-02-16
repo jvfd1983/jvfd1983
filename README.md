@@ -25,7 +25,7 @@ me = Developer()
 
 me.say_hey()
 
-🛠️ Tech
+# 🛠️ Tech
 Languages/Tools I'm currently working on and learning:
 
 ![icons8-javascript](https://github.com/jvfd1983/jvfd1983/assets/152170826/e873437d-5306-4aa3-bde2-097ede47d2fe)
@@ -35,15 +35,14 @@ Languages/Tools I'm currently working on and learning:
 ![icons8-reagir](https://github.com/jvfd1983/jvfd1983/assets/152170826/62efb75a-92ab-406b-8805-b050cbfdf846)
 ![icons8-nó-js-64](https://github.com/jvfd1983/jvfd1983/assets/152170826/592d0cb3-7395-4017-8309-e68cff68a61c)
 
-Self learning:
+## Self learning:
 
 ![icons8-python](https://github.com/jvfd1983/jvfd1983/assets/152170826/6fe94e99-50d0-40df-90b5-eba6cd4fcf07)
 
 
+## Contact Me
+![icons8-bate-papo](https://github.com/jvfd1983/jvfd1983/assets/152170826/1cdd5943-e40d-44b7-9622-794275254ae2)
 
-      
-
-## 📫 Contact Me ## 
 
 Why did the web developer avoid the phone?
 
