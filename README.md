@@ -1,28 +1,28 @@
 ![HackedComputerhackGIF](https://github.com/jvfd1983/jvfd1983/assets/152170826/d399d0a2-7e5e-481f-9a5c-d47944082445)
 # 👋 Hi there! I'm João Dias 
 
-def __init__(self):
-    self.name = "João Dias"
-    self.role = "Developer"
-    self.location = "Lisbon, Portugal"
-    self.language_spoken = ["pt_PT", "en_US"]
-    self.hobbies = ["🎮 Gaming", "🎬 Movies", "📚 Reading"]
-    self.likes = ["🍣 Japanese Cuisine", "💻 Exploring new technologies"]
-
-def say_hey(self):
-    print("Thank you for stopping by!")
 class Developer:
 
  def __init__(self):
+ 
         self.name = "João Dias"
+        
         self.role = "Developer"
+        
         self.location = "Lisbon, Portugal"
+        
         self.language_spoken = ["pt_PT", "en_US"]
+        
         self.hobbies = ["🎮 Gaming", "🎬 Movies", "📚 Reading"]
+        
         self.likes = ["🍣 Japanese Cuisine", "💻 Exploring new technologies"]
+        
         def say_hey(self):
+        
         print("Thank you for stopping by!")
+        
 me = Developer()
+
 me.say_hey()
 
 🛠️ Tech
@@ -36,6 +36,7 @@ Languages/Tools I'm currently working on and learning:
 ![icons8-nó-js-64](https://github.com/jvfd1983/jvfd1983/assets/152170826/592d0cb3-7395-4017-8309-e68cff68a61c)
 
 Self learning:
+
 ![icons8-python](https://github.com/jvfd1983/jvfd1983/assets/152170826/6fe94e99-50d0-40df-90b5-eba6cd4fcf07)
 
 
