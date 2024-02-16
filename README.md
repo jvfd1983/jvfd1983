@@ -20,13 +20,16 @@ me.say_hey()
 🛠️ Tech
 Languages/Tools I'm currently working on and learning:
 
-
 ![icons8-javascript](https://github.com/jvfd1983/jvfd1983/assets/152170826/e873437d-5306-4aa3-bde2-097ede47d2fe)
 ![icons8-html](https://github.com/jvfd1983/jvfd1983/assets/152170826/316ca250-14ca-4819-8f7d-1b5d3adac6db)
 ![icons8-css-64](https://github.com/jvfd1983/jvfd1983/assets/152170826/9cc3828f-c887-42ba-9e81-0730e4a2f44a)
 ![icons8-mongo-db-64](https://github.com/jvfd1983/jvfd1983/assets/152170826/8ee8a847-57c7-4ae5-9203-8118ce5f2eb7)
 ![icons8-reagir](https://github.com/jvfd1983/jvfd1983/assets/152170826/62efb75a-92ab-406b-8805-b050cbfdf846)
 ![icons8-nó-js-64](https://github.com/jvfd1983/jvfd1983/assets/152170826/592d0cb3-7395-4017-8309-e68cff68a61c)
+
+Self learning:
+![icons8-python](https://github.com/jvfd1983/jvfd1983/assets/152170826/6fe94e99-50d0-40df-90b5-eba6cd4fcf07)
+
 
 
       
