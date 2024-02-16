@@ -3,17 +3,15 @@
 
 class Developer:
 
-    def __init__(self):
+ def __init__(self):
         self.name = "João Dias"
         self.role = "Developer"
         self.location = "Lisbon, Portugal"
         self.language_spoken = ["pt_PT", "en_US"]
         self.hobbies = ["🎮 Gaming", "🎬 Movies", "📚 Reading"]
         self.likes = ["🍣 Japanese Cuisine", "💻 Exploring new technologies"]
-
-    def say_hey(self):
+        def say_hey(self):
         print("Thank you for stopping by!")
-
 me = Developer()
 me.say_hey()
 
