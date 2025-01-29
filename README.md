@@ -13,7 +13,7 @@ class Developer:
         
         self.location = "Lisbon, Portugal"
         
-        self.language_spoken = ["pt_PT", "en_US"]
+        self.language_spoken = ["pt_PT", "en_US", "fr_FR", "es_ES"]
         
         self.hobbies = ["🎮 Gaming", "🎬 Movies", "📚 Reading"]
         
